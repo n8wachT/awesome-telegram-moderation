@@ -1,15 +1,15 @@
-# telegram-bots-moderation
-> Kumpulan bot untuk moderasi **Telegram** grup
+# awesome-telegram-bots-moderation
+> Collection bots for **Telegram** group moderation
 
-## Bot
+## Bots
 
-- [@join_captcha_bot](https://telegram.me/join_captcha_bot) – Bot untuk memverifikasi pengguna baru yang bergabung dengan grup.
-- [@MissRose_bot](https://telegram.me/MissRose_bot) – Bot telegram untuk membantu mengelola grup.
-- [@combot](https://telegram.me/combot) – Bot untuk mengelola grup Telegram Anda.
-- [@AlertBot](https://telegram.me/AlertBot) – Bot ini untuk membuat peringatan sederhana.
-- [@github_gist_bot](https://telegram.me/github_gist_bot) – Bot untuk mengunggah teks dan dokumen ke GitHub Gist.
-- [@nosticker_bot](https://telegram.me/nosticker_bot) – Bot untuk menghapus stiker yang diposting ke grup
-- [@daysandbox_bot](https://telegram.me/daysandbox_bot) – Bot untuk menghapus tautan & diteruskan yang ditulis oleh pengguna yang bergabung dengan chatroom kurang dari 24 jam. 
+- [@join_captcha_bot](https://telegram.me/join_captcha_bot) – Bot to verify using captchas images, if a new user, who join a group, is human.
+- [@MissRose_bot](https://telegram.me/MissRose_bot) – Powerful telegram bot to help you manage your groups.
+- [@combot](https://telegram.me/combot) – The best and the biggest community management service for Telegram chats.
+- [@AlertBot](https://telegram.me/AlertBot) – Use this bot to create simple alerts.
+- [@github_gist_bot](https://telegram.me/github_gist_bot) – Create Gist link of your texts, codes or snippets.
+- [@nosticker_bot](https://telegram.me/nosticker_bot) – Bot to remove all stickers posted in chatroom.
+- [@daysandbox_bot](https://telegram.me/daysandbox_bot) – Bot to remove links & forwarded written by users joined chatroom less than 24 hours.
 
-## Lisensi
-Kode ini tersedia di bawah [The Unlicense](LICENSE).
+## License
+[The Unlicense](LICENSE).
