@@ -1,4 +1,4 @@
-# awesome-telegram-moderation
+# Awesome Telegram Moderation
 > Collection bots for **Telegram** group moderation
 
 ## Bots
@@ -10,6 +10,11 @@
 - [@github_gist_bot](https://telegram.me/github_gist_bot) – Create Gist link of your texts, codes or snippets.
 - [@nosticker_bot](https://telegram.me/nosticker_bot) – Bot to remove all stickers posted in chatroom.
 - [@daysandbox_bot](https://telegram.me/daysandbox_bot) – Bot to remove links & forwarded written by users joined chatroom less than 24 hours.
+
+## Contribution
+Your contributions and suggestions are heartily welcome!
+
+- Create issue at [Issues](https://github.com/ossid/awesome-telegram-moderation/issues) include the bot link and description of the bot.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
