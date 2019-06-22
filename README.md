@@ -12,4 +12,4 @@
 - [@daysandbox_bot](https://telegram.me/daysandbox_bot) – Bot to remove links & forwarded written by users joined chatroom less than 24 hours.
 
 ## License
-[The Unlicense](LICENSE).
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
