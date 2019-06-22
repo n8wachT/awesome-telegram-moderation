@@ -1,8 +1,8 @@
 
-# Awesome Telegram Moderation
+# :sunglasses: Awesome Telegram Moderation
 > Collection bots for **Telegram** group moderation
 
-## Bots
+## :robot: Bots
 
 - [@join_captcha_bot](https://telegram.me/join_captcha_bot) – Bot to verify using captchas images, if a new user, who join a group, is human.
 - [@MissRose_bot](https://telegram.me/MissRose_bot) – Powerful telegram bot to help you manage your groups.
@@ -13,14 +13,14 @@
 - [@daysandbox_bot](https://telegram.me/daysandbox_bot) – Bot to remove links & forwarded written by users joined chatroom less than 24 hours.
 - [@Polyesterbot](https://telegram.me/Polyesterbot) – A Simple Bot That Mutes Someone When They Haven't Set Username.
 
-### Indonesia
+### Indonesia :indonesia:
 Telegram bot only uses Indonesian.
 
 - [@WinTenBot](https://telegram.me/WinTenBot) – Official Telegram Bot based on WinTen API.
 - [@EmiliaHikariBot](https://telegram.me/EmiliaHikariBot) – Emilia is Telegram group assistant manager.
 
 ## Contribution
-Your contributions and suggestions are heartily welcome!
+Your contributions and suggestions are heartily welcome! :smile:
 
 1. Create an issue at [Issues](https://github.com/ossid/awesome-telegram-moderation/issues) page include the bot link and description of the bot.
 2. or Fork this repo, then enter the bot link and description according to the example. Latest bot list must be at the bottom.
