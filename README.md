@@ -14,7 +14,7 @@
 ## Contribution
 Your contributions and suggestions are heartily welcome!
 
-- Create issue at [Issues](https://github.com/ossid/awesome-telegram-moderation/issues) page include the bot link and description of the bot.
+- Create an issue at [Issues](https://github.com/ossid/awesome-telegram-moderation/issues) page include the bot link and description of the bot.
 - or Fork this repo, then enter the bot link and description according to the example. Latest bot list must be at the bottom.
 
 ## License
