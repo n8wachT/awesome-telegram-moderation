@@ -10,6 +10,7 @@
 - [@github_gist_bot](https://telegram.me/github_gist_bot) – Create Gist link of your texts, codes or snippets.
 - [@nosticker_bot](https://telegram.me/nosticker_bot) – Bot to remove all stickers posted in chatroom.
 - [@daysandbox_bot](https://telegram.me/daysandbox_bot) – Bot to remove links & forwarded written by users joined chatroom less than 24 hours.
+- [@Polyesterbot](https://telegram.me/Polyesterbot) – A Simple Bot That Mutes Someone When They Haven't Set Username.
 
 ## Contribution
 Your contributions and suggestions are heartily welcome!
