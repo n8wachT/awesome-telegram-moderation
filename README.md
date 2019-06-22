@@ -1,4 +1,4 @@
-# awesome-telegram-bots-moderation
+# awesome-telegram-moderation
 > Collection bots for **Telegram** group moderation
 
 ## Bots
